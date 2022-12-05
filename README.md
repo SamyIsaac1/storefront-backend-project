@@ -6,7 +6,7 @@ the starting project was provided by [Udacity](https://github.com/udacity/nd0067
 # Installations
 
 1. run `yarn` in your terminal at the project root. to download all dependencies to the project.
-2. I decided to work locally . you have to install [postges](https://www.postgresql.org/) first ,then create shopping database
+2. I decided to work locally . you have to install [postgres](https://www.postgresql.org/) first ,then create shopping database
 
 ```
 $ psql -h localhost -U postgres
