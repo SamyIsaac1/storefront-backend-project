@@ -11,7 +11,9 @@ the starting project was provided by [Udacity](https://github.com/udacity/nd0067
 ```
 $ psql -h localhost -U postgres
 $ CREATE DATABASE shopping;
-CREATE DATABASE // will appear
+CREATE DATABASE
+$ CREATE DATABASE shopping_test;
+CREATE DATABASE
 ```
 
 3. now you can test the project by typing this command
@@ -30,7 +32,7 @@ yarn start
 
 # Port
 
-the app runs on port 3000 with database on 5432
+the app runs on port 3000 with database on 5432.
 
 # Environment variable
 
